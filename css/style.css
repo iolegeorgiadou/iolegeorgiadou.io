@@ -1,0 +1,32 @@
+h1{
+	color: #ffbf4c;
+	font-size:150px;
+	text-align: center;
+}
+
+body{
+	background-color:#fff2cc;
+}
+
+.periexomeno {
+  display: flex;
+  align-items: center;
+}
+p{
+	font-size:30px;
+}
+img {
+  width: 350px;
+}
+section {
+  padding: 130px;
+}
+img {
+  margin-right: 70px;
+}
+.periexomeno {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 20px;
+}
