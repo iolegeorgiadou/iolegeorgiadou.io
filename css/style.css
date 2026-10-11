@@ -8,25 +8,40 @@ body{
 	background-color:#fff2cc;
 }
 
-.periexomeno {
-  display: flex;
-  align-items: center;
-}
 p{
 	font-size:30px;
 }
 img {
-  width: 350px;
+   width: 30%;
+   margin-right: 70px;
 }
 section {
-  padding: 130px;
+  padding: 60px;
 }
-img {
-  margin-right: 70px;
-}
+
 .periexomeno {
   display: flex;
   align-items: center;
-  gap: 16px;
+  
+}
+	
+
+.section3 {
+  display: flex;
+  align-items: center;
+  gap: 20px;
   padding: 20px;
+}
+
+.section3 img {
+  display: block;
+  margin-bottom: 10px;
+  width: 350px;
+}
+
+.videaki{
+	display: flex;
+	justify-content: center;
+
+
 }
